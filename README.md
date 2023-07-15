@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnuragSharma69
 - 👀 I’m interested in Coding.
-- 🌱 I’m currently learning C++ DSA and Unreal Engine 5.
+- 🌱 I’m currently learning C++,DSA, Web Development & Unreal Engine 5.
 
 <!---
 AnuragSharma69/AnuragSharma69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
